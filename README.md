@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandikaFajar
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and More
 - 🌱 I’m currently learning Front end and Back end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
